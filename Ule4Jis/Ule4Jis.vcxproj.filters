@@ -132,6 +132,7 @@
     <None Include="res\Ule4Jis.rc2">
       <Filter>res</Filter>
     </None>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
