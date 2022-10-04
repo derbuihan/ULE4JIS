@@ -66,13 +66,18 @@ BOOL Ule4JisApp::InitInstance()
 		return FALSE;
 	}
 
-	Ule4JisDlg* dlg = new Ule4JisDlg;
-	m_pMainWnd = dlg;
-	dlg->Create(IDD_ULE4JIS_DIALOG);
-	dlg->ShowWindow(SW_SHOW);
-	dlg->ShowWindow(SW_MINIMIZE);
-	dlg->ShowWindow(SW_HIDE);
-	CWinApp::Run();
+	// Ule4JisDlg* dlg = new Ule4JisDlg;
+	// m_pMainWnd = dlg;
+	// dlg->Create(IDD_ULE4JIS_DIALOG);
+	// dlg->ShowWindow(SW_SHOW);
+	// dlg->ShowWindow(SW_MINIMIZE);
+	// dlg->ShowWindow(SW_HIDE);
+	// CWinApp::Run();
+
+
+	Ule4JisDlg dlg;;
+	m_pMainWnd = &dlg;
+	INT_PTR nResponse = dlg.DoModal();
 
 	return FALSE;
 }
