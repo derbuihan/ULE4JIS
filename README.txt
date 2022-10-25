@@ -1,16 +1,18 @@
+å¯¾å¿œOS
+	Window 10, Windows 11ã§ã¯å‹•ä½œç¢ºèªæ¸ˆã¿
 
-ŠT—v
-	ŠÇ—ŽÒŒ ŒÀ‚Ì‚È‚¢Windows‚ÅHHKB“™‚ÌUSƒL[ƒ{[ƒh‚ðŽg‚¦‚é‚æ‚¤‚É‚·‚éB
-
-
-—˜—p•û–@
-	publish“à‚ÌUle4Jis.exe‚ðƒ_ƒEƒ“ƒ[ƒh‚µ‚ÄŽÀsB
-	ƒCƒ“ƒXƒg[ƒ‹EŠÇ—ŽÒŒ ŒÀEÄ‹N“®•s—v‚Å‘¦Žg‚¦‚é‚æ‚¤‚É‚È‚éB
+æ¦‚è¦
+	ç®¡ç†è€…æ¨©é™ã®ãªã„Windowsã§HHKBç­‰ã®USã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ã‚’ä½¿ãˆã‚‹ã‚ˆã†ã«ã™ã‚‹ã€‚
 
 
-ƒrƒ‹ƒh•û–@
-	1. Visual Studio 2022‚ðƒCƒ“ƒXƒg[ƒ‹
-	2. ‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ðƒNƒ[ƒ“
-	3. NuGet‚Åboost‚ðƒCƒ“ƒXƒg[ƒ‹
-	4. Ule4Jis.sln‚ðŠJ‚­
-	5. ƒrƒ‹ƒh
+åˆ©ç”¨æ–¹æ³•
+	publishå†…ã®Ule4Jis.exeã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã¦å®Ÿè¡Œã€‚
+	ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãƒ»ç®¡ç†è€…æ¨©é™ãƒ»å†èµ·å‹•ä¸è¦ã§å³ä½¿ãˆã‚‹ã‚ˆã†ã«ãªã‚‹ã€‚
+
+
+ãƒ“ãƒ«ãƒ‰æ–¹æ³•
+	1. Visual Studio 2022ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+	2. ã“ã®ãƒªãƒã‚¸ãƒˆãƒªã‚’ã‚¯ãƒ­ãƒ¼ãƒ³
+	3. NuGetã§boostã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+	4. Ule4Jis.slnã‚’é–‹ã
+	5. ãƒ“ãƒ«ãƒ‰
